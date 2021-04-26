@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Hernán Darío Castaño Rueda</h1>
 <h3 align="center">Software developer / DevOps / UNIX Hipster</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dario-castano" alt="dario-castano" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dario-castano" alt="dario-castano" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/astrolimonada" target="blank"><img src="https://img.shields.io/twitter/follow/astrolimonada?logo=twitter&style=for-the-badge" alt="astrolimonada" /></a> </p>
+<p align="center"> <a href="https://twitter.com/astrolimonada" target="blank"><img src="https://img.shields.io/twitter/follow/astrolimonada?logo=twitter&style=for-the-badge" alt="astrolimonada" /></a> </p>
 
 - 🌱 I’m currently learning **Rust, Kubernetes, Azure**
 
