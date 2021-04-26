@@ -6,6 +6,13 @@
     console.log('hola');
 </script>
 
+<table><tr><td>
+<pre>
+**Hello**,
+
+_world_.
+</pre>
+</td></tr></table>
 
 <!--
 **dario-castano/dario-castano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
