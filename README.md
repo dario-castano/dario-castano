@@ -1,18 +1,12 @@
 ### Hi there, I'm Hernán Darío Castaño Rueda 👋
 - Software Developer / DevOps
-- Currently learning Rust.
+- Currently learning Rust
+- OS hipster
 
-<script type="text/javascript">
-    console.log('hola');
-</script>
+<div>
+    <p> HI guys <p>
+</div>
 
-<table><tr><td>
-<pre>
-**Hello**,
-
-_world_.
-</pre>
-</td></tr></table>
 
 <!--
 **dario-castano/dario-castano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
