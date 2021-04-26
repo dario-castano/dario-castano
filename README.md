@@ -2,7 +2,7 @@
 - Software Developer / DevOps
 - Currently learning Rust.
 
-<script>
+<script type="text/javascript">
     console.log('hola');
 </script>
 
