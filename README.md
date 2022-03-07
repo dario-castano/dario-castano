@@ -11,7 +11,7 @@
 
 ### Things I have used  
 #### Programming languages
-- Python, Java, Clojure, Ruby, C, C#, JS, PHP
+- Elixir, Python, Java, Clojure, Ruby, C, C#, JS, PHP
 
 #### Databases
 - PostgreSQL, MariaDB, MySQL, MongoDB, Datomic
@@ -23,7 +23,10 @@
 - Django, Flask, Rails, Fulcro, Vue, Springboot, Phoenix
 
 #### DevOps Tools
-- Jenkins, Docker, Vagrant, Fabric, Ansible, Puppet, Zabbix, Shells (Bash, Zsh, Tenex), AWS
+- Jenkins, Docker, Vagrant, Fabric, Ansible, Puppet, Zabbix, Shells (Bash, Zsh, Tenex)
+
+#### Cloud
+- AWS Cloud Practitioner
 
 #### Operating systems
 - Linux, BSD, MacOS, Windows, Haiku
@@ -33,7 +36,7 @@
 - Rust
 
 #### DevOps
-- Kubernetes, Azure
+- Kubernetes, Azure DevOps
 
 ### Contact
 
