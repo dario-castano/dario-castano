@@ -1,7 +1,7 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ --> 
 
 <h1 align="center">Hi 👋, I'm Hernán Darío Castaño Rueda</h1>
-<h3 align="center">Software developer / DevOps / UNIX Hipster</h3>
+<h3 align="center">Software developer / UNIX Hipster</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dario-castano" alt="dario-castano" /></a> </p>
 
