@@ -11,7 +11,7 @@
 
 ### Things I have used  
 #### Programming languages
-- Elixir, Python, Java, Clojure, Ruby, C, C#, JS, PHP
+- Elixir, Python, Java, Clojure, C, Go
 
 #### Databases
 - PostgreSQL, MariaDB, MySQL, MongoDB, Datomic
@@ -33,7 +33,7 @@
 
 ### Things I'm learning
 #### Programming languages
-- Rust
+- Go
 
 #### DevOps
 - Kubernetes, Azure DevOps
